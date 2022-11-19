@@ -1,0 +1,17 @@
+.container {
+  margin-top: 2.5em;
+}
+
+.left {
+  margin-right: 0.5em;
+}
+
+.right {
+  margin-left: 0.5em;
+}
+
+.text-button {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
